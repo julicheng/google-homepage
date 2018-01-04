@@ -1,0 +1,21 @@
+.google-logo {
+	display: block;
+	margin: auto;
+	padding-top: 190px;
+}
+
+.search-bar {
+	outline: none;
+	margin-top: 30px;
+}
+
+form {
+	margin: auto;
+	width: 100%;
+	text-align: center;
+}
+
+input {
+	padding: 12px;
+	width: 570px;
+}
